@@ -1,0 +1,32 @@
+img{
+    max-width: 100%;
+}
+
+.myheader{
+    width: 100%;
+    background: url("https://wallpaperaccess.com/full/806533.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header-content{
+    height:50vh;
+}
+.mybtn{
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    padding: .7rem 1.5rem;
+    transition: .34s;
+}
+.mybtn:hover{
+    background-color: white;
+    color: black;   
+}
+.headerCard{
+    margin-top: 3rem;
+}
+.myCard{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: .6rem;
+}
